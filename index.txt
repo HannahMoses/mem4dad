@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+
+<head>
+<link rel="stylesheet" href="styles.css">
+
+
+	<div1>
+                 		<img src="images\myDad.png"
+                		 alt="Hen and her chick" style="height:128px; width:100px;"></div1>
+                       <!--      <h1 style="height:78px; width:600px;font-size:64;margin-left:300px;"> HEADING  </h1>-->
+                 <div2 style="height:528px; width:800px;"> TESTIMONIAL FOR SRI GURINDAPALLI
+                                  </div2><br>
+                 <div12 style="height:528px; width:800px;margin-left:210px;">
+                               ISAAC DAYARDHANA RAO GARU<hr> </div12>
+                  <br> 
+
+		 <button type="button"style="height:28px; width:44px;  margin-left: 1150px;">HELP</button>
+		<button type="button"style="height:28px; width:94px;  margin-right: 10px;">ACCOUNT</button>
+
+
+<title>pthome HANNAH'S io form1 </title>
+      
+
+</head>
+<body>
+<br><br><br>
+	<div3>
+                      <button type="button"style="height:38px; width:200px;">LOCATION</button> 
+                  </div3>
+
+	<div4>
+                      <button type="button"style="height:38px; width:200px;">SUBJECT</button> 
+                  </div4>
+
+                 <div5>
+                      <button type="button"style="height:38px; width:200px;">SEARCH</button> 
+                  </div5>
+
+	<br>
+<p1> Testimonial is a formal statement testifying to someone's character and qualifications.
+    Please enter the subject, lyou would like to write a testimonial about Sri Gurindapalli Isaac Dayardhana
+   Rao garu. For example, if you would like to write a testimonial about his work ethic that bravely
+   avoided taking bribes, please enter secular work. Or if you would prefer to write a testimonial about
+  his Sunday school ministry that has helped many kids, please enter Sunday school mininstry. If you
+  would like to write a testimonial about his musical talents ,please enter Music ministry.  </p1>
+	<br>
+
+         
+
+      
+
+</body>
+
+
+</html>

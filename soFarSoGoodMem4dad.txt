@@ -1,0 +1,399 @@
+
+============+++10:37 AM 2/13/2021+++===========
+head{
+        background-color: rgb(235, 155,55);
+        }
+
+div1 { margin-left: 10px; }
+div2{
+   margin-left:60px;
+  text-align:center;
+ font-color:rgb(234,17,10);
+font-size:50px;
+
+}
+div12{
+   margin-left:160px;
+  text-align:center;
+ font-color:rgb(234,17,10);
+font-size:50px;
+
+}
+div3{
+    text-align : center;
+     width: 100px;
+   height:3px;
+    margin-left: 140px;
+   }
+div4{
+    text-align : center;
+     width: 100px;
+   height:5px;
+    margin-left: 200px;
+   }
+div5{
+    text-align : center;
+     width: 100px;
+   height:5px;
+    margin-left: 340px;
+   }
+div6{
+    text-align : center;
+     width: 100px;
+   height:5px;
+    margin-left: 340px;
+   }
+div9{
+    text-align : center;
+    border: 2px solid black;
+    height:152px;
+    width: 518px;
+    margin-top: 90px;
+    margin-bottom: 10px;
+    margin-right: 3px;
+    margin-left: 3px;
+ }
+div8{
+border: 2px solid black;
+    height:928px;
+    width: 1598px;
+    margin-top: 90px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+    margin-left: 400px;
+    background-color:rgb(198,12,100);
+    padding : 12px 15px 12px 15px;
+}
+
+body {
+    background-color: rgb(135, 155,55);
+}
+
+h1 {    
+    text-align: center;
+    }
+h2 {
+    color:rgb(198,12,100);
+    text-align: center;
+    }
+p1 {
+    color:red;
+    text-align: left;
+   }
+div {
+    border: 2px solid black;
+    height:528px;
+    width: 598px;
+    margin-top: 90px;
+    margin-bottom: 10px;
+    margin-right: 500px;
+    margin-left: 400px;
+    background-color:rgb(148,26,7);
+    padding : 12px 15px 12px 15px;
+
+}
+
+p {
+    color:black;
+    text-align: left;
+   }
+p.conclusion{ background:yellow
+            }
+header{
+    padding-top:1.7em;
+    padding-right:0px;
+    padding-bottom:1.7em;
+    padding-left:0px;
+}
+.......................=.index..........................
+<!doctype html>
+<html>
+
+<head>
+<link rel="stylesheet" href="styles.css">
+
+
+	<div1>
+                 		<img src="images\myDad.png"
+                		 alt="Hen and her chick" style="height:128px; width:100px;"></div1>
+                       <!--      <h1 style="height:78px; width:600px;font-size:64;margin-left:300px;"> HEADING  </h1>-->
+                 <div2 style="height:528px; width:800px;"> TESTIMONIAL FOR SRI GURINDAPALLI
+                                  </div2><br>
+                 <div12 style="height:528px; width:800px;margin-left:210px;">
+                               ISAAC DAYARDHANA RAO GARU<hr> </div12>
+                  <br> 
+
+		 <button type="button"style="height:28px; width:44px;  margin-left: 1150px;">HELP</button>
+		<button type="button"style="height:28px; width:94px;  margin-right: 10px;">ACCOUNT</button>
+
+
+<title>pthome HANNAH'S io form1 </title>
+      
+
+</head>
+<body>
+<br><br><br>
+	<div3>
+                      <button type="button"style="height:38px; width:200px;">LOCATION</button> 
+                  </div3>
+
+	<div4>
+                      <button type="button"style="height:38px; width:200px;">SUBJECT</button> 
+                  </div4>
+
+                 <div5>
+                      <button type="button"style="height:38px; width:200px;">SEARCH</button> 
+                  </div5>
+
+	<br>
+           <div6>
+
+		<div>
+                 <img src="images\dad2020.png"
+                 alt="proud peacock" style="height:428px; width:598px;"><br>
+                 </div><br>
+           </div6>
+
+</body>
+
+
+</html>
+
+
+
+==========++++++9:41 AM 2/13/2021=======++++++=====
+<!doctype html>
+<html>
+
+<head>
+<link rel="stylesheet" href="styles.css">
+
+
+	<div1>
+                 		<img src="images\henchick.png"
+                		 alt="Hen and her chick" style="height:128px; width:100px;"></div1>
+                       <!--      <h1 style="height:78px; width:600px;font-size:64;margin-left:300px;"> HEADING  </h1>-->
+                 <div2 style="height:528px; width:800px;"> TESTIMONIAL FOR SRI GURINDAPALLI
+                                  </div2><br>
+                 <div12 style="height:528px; width:800px;margin-left:210px;">
+                               ISAAC DAYARDHANA RAO GARU<hr> </div12>
+                  <br> 
+
+		 <button type="button"style="height:28px; width:44px;  margin-left: 1150px;">HELP</button>
+		<button type="button"style="height:28px; width:94px;  margin-right: 10px;">ACCOUNT</button>
+
+
+<title>pthome HANNAH'S io form1 </title>
+      
+
+</head>
+<body>
+<br><br><br>
+	<div3>
+                      <button type="button"style="height:38px; width:200px;">LOCATION</button> 
+                  </div3>
+
+	<div4>
+                      <button type="button"style="height:38px; width:200px;">SUBJECT</button> 
+                  </div4>
+
+                 <div5>
+                      <button type="button"style="height:38px; width:200px;">SEARCH</button> 
+                  </div5>
+
+	<br>
+           <div6>
+
+		<div>
+                 <img src="images\proudpeacock.png"
+                 alt="proud peacock" style="height:428px; width:598px;"><br>
+                 </div><br>
+           </div6>
+
+</body>
+
+
+</html>
+
+
+
+
+
+=======9:24 AM 2/13/2021index======+++++++++++==
+<!doctype html>
+<html>
+
+<head>
+<link rel="stylesheet" href="styles.css">
+
+
+	<div1>
+                 		<img src="images\henchick.png"
+                		 alt="Hen and her chick" style="height:128px; width:100px;">
+                 </div1>  
+
+                 <div2 style="height:528px; width:800px;"> TESTIMONIAL FOR SRI GURINDAPALLI<br>
+                                  ISAAC DAYARDHANA RAO GARU </div2>
+
+<title> HANNAH'S io form1 </title>
+      
+
+</head>
+<body>
+<br><br><br>
+	<div3>
+                      <button type="button"style="height:38px; width:200px;">LOCATION</button> 
+                  </div3>
+
+	<div4>
+                      <button type="button"style="height:38px; width:200px;">SUBJECT</button> 
+                  </div4>
+
+                 <div3>
+                      <button type="button"style="height:38px; width:200px;">SEARCH</button> 
+                  </div3>
+	<br> <br><br>
+
+
+
+ <div8 >
+                 <img src="dadDetails.png"
+                 alt="proud peacock" style="height:428px; width:598px;"><br>
+                 </div8><br>
+
+</body>
+
+
+</html>
+
+========1:04 AM 2/11/2021=++++++===============
+<!doctype html>
+<html>
+
+<head>
+<link rel="stylesheet" href="styles.css">
+
+
+	<div1>
+                 		<img src="images\henchick.png"
+                		 alt="Hen and her chick" style="height:128px; width:100px;"></div1>
+                             <h1 style="height:78px; width:600px;font-size:64;margin-left:300px;"> HEADING  </h1>
+                  <br> 
+
+		 <button type="button"style="height:28px; width:44px;  margin-left: 1150px;">HELP</button>
+		<button type="button"style="height:28px; width:94px;  margin-right: 10px;">ACCOUNT</button>
+
+
+<title> HANNAH'S io form1 </title>
+      
+
+</head>
+<body>
+<br><br><br>
+	<div3>
+                      <button type="button"style="height:38px; width:200px;">LOCATION</button> 
+                  </div3>
+
+	<div4>
+                      <button type="button"style="height:38px; width:200px;">SUBJECT</button> 
+                  </div4>
+
+                 <div5>
+                      <button type="button"style="height:38px; width:200px;">SEARCH</button> 
+                  </div5>
+
+	<br>
+           <div6>
+
+		<div>
+                 <img src="images\proudpeacock.png"
+                 alt="proud peacock" style="height:428px; width:598px;"><br>
+                 </div><br>
+           </div6>
+
+</body>
+
+
+</html>
+
+
+=============1:01 AM 2/11/2021=================+++++++++++++++++
+
+<!doctype html>
+<html>
+
+<head>
+<link rel="stylesheet" href="styles.css">
+
+
+	<div1>
+                 		<img src="images\henchick.png"
+                		 alt="Hen and her chick" style="height:128px; width:100px;"></div1>
+                             <div2 style="height:328px; width:1300px;font-size:164;"> HEADING  </div2>
+                  <br> 
+
+		 <button type="button"style="height:28px; width:44px;  margin-left: 1150px;">HELP</button>
+		<button type="button"style="height:28px; width:94px;  margin-right: 10px;">ACCOUNT</button>
+
+
+<title> HANNAH'S io form1 </title>
+      
+
+</head>
+<body>
+<br><br><br>
+	<div3>
+                      <button type="button"style="height:38px; width:200px;">LOCATION</button> 
+                  </div3>
+
+	<div4>
+                      <button type="button"style="height:38px; width:200px;">SUBJECT</button> 
+                  </div4>
+
+                 <div3>
+                      <button type="button"style="height:38px; width:200px;">SEARCH</button> 
+                  </div3>
+
+	
+
+</body>
+
+
+</html>
+=============12:02 AM 2/11/2021============
+
+<!doctype html>
+<html>
+
+<head>
+<link rel="stylesheet" href="styles.css">
+
+
+	<div1>
+                 <img src="images\henchick.png"
+                 alt="Hen and her chick" style="height:128px; width:100px;">
+                 </div1>  <div2 style="height:528px; width:800px;"> HEADING </div2>
+<title> HANNAH'S TURNING POINT TRIP </title>
+      
+
+</head>
+<body>
+<br><br><br>
+	<div3>
+                      <button type="button"style="height:38px; width:200px;">LOCATION</button> 
+                  </div3>
+
+	<div4>
+                      <button type="button"style="height:38px; width:200px;">SUBJECT</button> 
+                  </div4>
+
+                 <div3>
+                      <button type="button"style="height:38px; width:200px;">SEARCH</button> 
+                  </div3>
+
+	
+
+</body>
+
+
+</html>
