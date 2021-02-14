@@ -6,7 +6,7 @@
 
 
 	<div1>
-                 		<img src="images\henchick.png"
+                 		<img src="images\dad2020.png"
                 		 alt="Hen and her chick" style="height:128px; width:100px;"></div1>
                              <h1 style="height:78px; width:600px;font-size:64;margin-left:300px;"> HEADING  </h1>
                   <br> 
