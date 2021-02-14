@@ -19,11 +19,18 @@ font-size:50px;
 }
 div3{
     text-align : center;
-     width: 100px;
-   height:3px;
-    margin-left: 140px;
+    border: 2px solid black;
+    height:1228px;
+    width: 1598px;
+    margin-top: 90px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+    margin-left: 400px;
+    background-color:rgb(198,12,100);
+    padding : 12px 15px 12px 15px;
    }
-div4{
+div4{background-color:rgb(227,212,73);
+color:rgb(77,71,25);
     text-align : center;
      width: 100px;
    height:5px;
@@ -95,6 +102,13 @@ p {
     color:black;
     text-align: left;
    }
+p.swe{background-color:pink;
+color:red;
+    text-align : center;
+     width: 100px;
+   height:5px;
+    margin-left: 200px;
+}
 p.conclusion{ background:yellow
             }
 header{
