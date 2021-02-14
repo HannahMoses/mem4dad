@@ -21,8 +21,11 @@
 </head>
 <body>
 <h3>Testimonial is a formal statement testifying to someone's character and qualifications.</h3>
-<p1 style="background-color:rgb(65,255,118);color:rgb(16,38,37);fontsize:16px;">    Please click on the subject, on which, you would like to read a testimonial about Sri Gurindapalli Isaac Dayardhana
-   Rao garu. </p1>
+<p1 style="background-color:rgb(65,255,118);color:rgb(16,38,37);fontsize:16px;">  
+  Please click on the subject, on which, you would like to read a testimonial about Sri Gurindapalli 
+Isaac Dayardhana    Rao garu. Daddy dares is a collection of from the book "How about that?".
+It takes a parent back to the times, when the parent dared to answer the child's question honestly.
+</p1>
 <br><br>
 <ul>
                                      <li><a href="#blh">brief life history </a></li>
