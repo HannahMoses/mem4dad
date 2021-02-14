@@ -1,4 +1,241 @@
 
+
+============++++9:04 PM 2/13/2021++++++++++=============
+<!doctype html>
+<html>
+
+<head>
+<link rel="stylesheet" href="styles.css">
+
+
+	<div1>
+                 		<img src="images\dad2020.PNG"
+                		 alt="SriGIDayardhan" style="height:128px; width:100px;"></div1>
+                             
+ <div2 style="height:528px; width:800px;color:rgb(166,37,28);"> TESTIMONIAL FOR MR GURINDAPALLI
+                                  </div2><br>
+                 <div12 style="height:528px; width:800px;margin-left:210px;">
+                               ISAAC DAYARDHANA RAO GARU<hr> </div12>
+                  <br> 
+
+<title> HANNAH'S io form1 </title>
+      
+
+</head>
+<body>
+<h3>Testimonial is a formal statement testifying to someone's character and qualifications.</h3>
+<p1 style="background-color:rgb(65,255,118);color:rgb(16,38,37);fontsize:16px;">    Please click on the subject, on which, you would like to read a testimonial about Sri Gurindapalli Isaac Dayardhana
+   Rao garu. </p1>
+<br><br>
+<ul>
+                                     <li><a href="#blh">brief life history </a></li>
+		    <li><a href="#ssm">sunday school minisrtry </a></li>
+		    <li><a href="#vo"> village outreach </a></li>
+		   <li><a href="#swe"> secular work ethic </a></li>
+		   <li><a href="#mm"> music ministry </a></li>
+		   <li><a href="#cc"> community christmas </a></li>
+                                     <li><a href="#bstudy"> Bible study</a></li>
+                                     <li><a href="#llm"> Lutheran church property support </a></li>
+		</ul>
+	
+	<br>
+           <div6>
+
+		<div>
+                 <img src="images\dad2020.png"
+                 alt="God bless the ministry of SriGIDayardhana Rao garu" style="height:428px; width:598px;"><br>
+                 </div><br>
+           </div6>
+<hr>
+<article>
+                 <section>
+                 <a name="blh"></a>
+
+<p1 style="text-align : center;
+       background-color:rgb(252,160,20);color:rgb(16,62,79);"> <strong> Brief life history of Sri Isaac Dayardhana Rao garu</strong><br>
+Sri Gurindapalli Isaac Dayardhana Rao garu was born in Nagaram, Repalle district on December 11,<br>
+1945, to Mr. Gurindapalli David garu and Mrs.Gurindapalli Devamani garu.Both of his parents were teachers
+<br> Lutheran high school. They raised Mr.G.I.Dayardhana Rao in the Christian faith and trained him to love
+<br> Lord Jesus, early on.They instilled a strong sense of compassion for the needy in him.
+
+
+
+</p1>
+	</section>
+<hr>
+<section>
+                 <a name="ssm"></a>
+<p2 style="text-align : center;
+       background-color:rgb(43,240,213);color:rgb(166,37,28);"><strong> Sunday school ministry of Sri G Isaac Dayardhana Rao garu</strong><br>
+Sri.Gurindapalli Isaac Dayardhana Rao garu started teaching Sunday school when he was in his thirties and continued until the last day of his life.<br>
+He loved the little ones very much and would be humble enough to use various teaching aids, like action songs, play acting and mime, in order to<br>
+catch and keep the attention of the little kids.The little ones in turn thoroughly enjoyed his story-telling skills, voice modulation,songs and actions <br>
+that aptly described the scenario to the kids. Often, his students could be heard, laughing and taking part in the play-acting part of the narration,<br>
+because, Mr.G.I.Dayardhana Rao garu had the talent to make even the most shy and bashful little kid to loosen up and actively take part in the <br>
+class.
+ </p2>
+	</section><br>
+<section>
+                 <a name="vo"></a>
+<p3>vo</p3>
+	</section><br>
+<section>
+                 <a name="swe"></a>
+<div4  > <p4 class="swe">
+<strong> Secular Work Ethic of Sri G Isaac Dayardhana Rao garu</strong><br>
+Sri Gurindapalli Isaac Dayardhana Rao garu worked as an engineer for the Central Telecommunications
+<br>department of India.He was a skilled, honest engineer and never took a bribe.He took vouluntary <br>
+ retirement in 1999 and dedicated the rest of his life to serve the Lord Jesus.</p4> </div4>
+	</section><br><hr>
+<section>
+                 <a name="mm"></a>
+<p5 style="background-color:rgb(166,76,219);color:rgb(27,12,36)" > 
+<strong> Music ministry of Sri G Isaac Dayardhana Rao garu </strong><br>
+     Sri Gurindapalli Isaac Dayardhana Rao garu had a keen interest and good
+talent in composing , playing and teaching music.
+  </p5>
+	</section><br>
+<section>
+                 <a name="cc"></a>
+<p6> cc </p6>
+	</section><br>
+<section>
+                 <a name="bstudy"></a>
+<p7> bstudy </p7>
+	</section><br>
+<section>
+                 <a name="llm"></a>
+<p8> llm </p8>
+	</section><br>
+
+
+
+
+</body>
+
+
+</html>
+...................=styles.css......................
+head{
+        background-color: rgb(235, 155,55);
+        }
+
+div1 { margin-left: 10px; }
+div2{
+   margin-left:60px;
+  text-align:center;
+ font-color:rgb(234,17,10);
+font-size:50px;
+
+}
+div12{
+   margin-left:160px;
+  text-align:center;
+ font-color:rgb(234,17,10);
+font-size:50px;
+
+}
+div3{
+    text-align : center;
+    border: 2px solid black;
+    height:1228px;
+    width: 1598px;
+    margin-top: 90px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+    margin-left: 400px;
+    background-color:rgb(198,12,100);
+    padding : 12px 15px 12px 15px;
+   }
+div4{background-color:rgb(227,212,73);
+color:rgb(77,71,25);
+    text-align : center;
+     width: 100px;
+   height:5px;
+    margin-left: 200px;
+   }
+div5{
+    text-align : center;
+     width: 100px;
+   height:5px;
+    margin-left: 340px;
+   }
+div6{
+    text-align : center;
+     width: 100px;
+   height:5px;
+    margin-left: 340px;
+   }
+div9{
+    text-align : center;
+    border: 2px solid black;
+    height:152px;
+    width: 518px;
+    margin-top: 90px;
+    margin-bottom: 10px;
+    margin-right: 3px;
+    margin-left: 3px;
+ }
+div8{
+border: 2px solid black;
+    height:1228px;
+    width: 1598px;
+    margin-top: 90px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+    margin-left: 400px;
+    background-color:rgb(198,12,100);
+    padding : 12px 15px 12px 15px;
+}
+
+body {
+    background-color: rgb(135, 155,55);
+}
+
+h1 {    
+    text-align: center;
+    }
+h2 {
+    color:rgb(198,12,100);
+    text-align: center;
+    }
+p1 {
+    color:red;
+    text-align: left;
+   }
+div {
+    border: 2px solid black;
+    height:458px;
+    width: 598px;
+    margin-top: 90px;
+    margin-bottom: 10px;
+    margin-right: 500px;
+    margin-left: 400px;
+    background-color:rgb(148,26,7);
+    padding : 12px 15px 12px 15px;
+
+}
+
+p {
+    color:black;
+    text-align: left;
+   }
+p.swe{background-color:pink;
+color:red;
+    text-align : center;
+     width: 100px;
+   height:5px;
+    margin-left: 200px;
+}
+p.conclusion{ background:yellow
+            }
+header{
+    padding-top:1.7em;
+    padding-right:0px;
+    padding-bottom:1.7em;
+    padding-left:0px;
+}
+
 ===+++++==7:46 PM 2/13/2021====+++++++++
 <!doctype html>
 <html>
